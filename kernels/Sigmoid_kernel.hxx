@@ -2,8 +2,7 @@
 #define SIGMOID_KERNEL_HXX
 
 #include <alpaka/alpaka.hpp>
-#include <vector>
-#include <cstddef>
+
 
 struct SigmoidKernel
 {
